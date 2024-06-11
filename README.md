@@ -12,8 +12,8 @@ Getting started
 1. How to run the Project ?
 
   Clone this repo. <br>
-  Clone user authentication Service from this link and run the service. <br>
-  Clone Task Management Service from this link and run the service. <br>
+  Clone user authentication Service from this link (https://github.com/nishil7/user-authentication-service) and run the service. <br>
+  Clone Task Management Service from this link (https://github.com/nishil7/task-management-service) and run the service. <br>
   Run yarn install
 
   Run yarn run dev
