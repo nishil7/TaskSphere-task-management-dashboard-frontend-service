@@ -4,8 +4,8 @@ Task Management System Frontend
 
 Content
 
-How to setup the Project ?
-Design of system
+How to setup the Project ? <br>
+Design of system <br>
 Additional Info
 
 Getting started
