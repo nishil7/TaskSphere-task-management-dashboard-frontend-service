@@ -11,9 +11,9 @@ Additional Info
 Getting started
 1. How to run the Project ?
 
-  Clone this repo.
-  Clone user authentication Service from this link and run the service.
-  Clone Task Management Service from this link and run the service.
+  Clone this repo. <br>
+  Clone user authentication Service from this link and run the service. <br>
+  Clone Task Management Service from this link and run the service. <br>
   Run yarn install
 
   Run yarn run dev
