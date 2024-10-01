@@ -23,7 +23,7 @@ Getting started
 2. DDD of TASK MANAGEMENT SYSTEM : https://drive.google.com/file/d/1HT2Z3dFYqPcaVgjRF80FWFMthmDyUorj/view?usp=sharing
 3. More Info on TASK MANAGEMENT SYSTEM : https://drive.google.com/file/d/1tLnGZYRtIdjottEeFeLMEBTPgy6muCgY/view?usp=sharing
 
-SCREENSHOTS OF FRONTEND : 
+TASK MANAGEMENT DASHBOARD : 
 ![Screenshot 2024-10-01 at 3 21 36 PM](https://github.com/user-attachments/assets/462c773e-5360-43f1-9560-b8b9dc699e80)
 ![Screenshot 2024-10-01 at 3 22 02 PM](https://github.com/user-attachments/assets/dc1df8be-2464-4388-b684-07e7e937ee20)
 ![Screenshot 2024-10-01 at 3 22 12 PM](https://github.com/user-attachments/assets/659a8d23-5c64-4476-bd0d-da405283573e)
